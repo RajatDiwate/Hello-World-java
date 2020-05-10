@@ -1,4 +1,4 @@
-package com.pictolearn.docker;
+package org.pictolearn.docker;
 
 
 public class HelloWorldPing {
